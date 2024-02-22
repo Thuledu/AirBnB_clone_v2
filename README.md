@@ -141,9 +141,9 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-## 0x02. AirBnB clone - MySQL
+# 0x02. AirBnB clone - MySQL
 
-# Background Context
+## Background Context
 Environment variables will be your best friend for this project!
 
 * ```HBNB_ENV```: running environment. It can be “dev” or “test” for the moment (“production” soon!)
@@ -154,7 +154,7 @@ Environment variables will be your best friend for this project!
 * ```HBNB_TYPE_STORAGE```: the type of storage used. It can be “file” (using FileStorage) or db (using DBStorage)
 
 
-# Learning Objectives
+## Learning Objectives
 
 **General**
 * What is Unit testing and how to implement it in a large project
